@@ -15,7 +15,8 @@ if __name__ == '__main__':
     obj = git()
     obj.saludar
     
-## este es otro cambio 
+obj.saludar
+
 ##nuevo cambio
 
 
